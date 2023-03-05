@@ -1,0 +1,3 @@
+In the current college administrative system, all sorts of activities are performed manually. They maintain all sorts of student and college information is recorded manually by using the paper. College Database System is definitely the system that manages and handles the student details and information. In this system, we can easily manage the student details, staff details, subject details, and department details.
+
+The college database management system needs to create the college database to organize student records and other information about the students. How many students registered with the college, and the students of the college can be recognized by their USN.
